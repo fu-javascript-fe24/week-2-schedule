@@ -10,6 +10,9 @@
 ## Resurser
 
 ### Presentationer
+* [01 - Kursintro](https://docs.google.com/presentation/d/1Bt692lV7nVergWyFnYJzj6M0JS7EO8zG/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [02 - Grundläggande JavaScript](https://docs.google.com/presentation/d/1wvqE6au_1Ucfs6fYk4kN3sobZphumL0b/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [03 - Funktioner](https://docs.google.com/presentation/d/1IBSIXu4pKrJ9kIzKciT1CWF-e9DBpkI5/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 
 ### Inspelade föreläsningar
