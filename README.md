@@ -3,8 +3,15 @@
 
 ## Introduktion
 
+Under denna inledande vecka kommer vi inleda med att repetera de koncept vi tjuvkikade på under föregående kurs, såsom variabler, datatyper, operationer, selektioner och iterationer, för att skapa oss en djupare förståelse för grunderna och syntaxen i JavaScript. Därefter kommer vi att bege oss raskt över till funktioner för att skapa oss en förståelse för en av de mest grundläggande principerna inom all programmering. Vi kommer bland annat titta på vad parametrar är och vad de gör, vilka olika typer av funktioner som finns, och vad innebör egentligen scope?
+
 
 ## Mål för veckan:
+
+1. Förstå hur man integrerar JavaScript i sina webbappar
+2. Förstå den grundläggande syntaxen i JavaScript
+3. Förstå grundläggande koncept som variabler, selektioner och loopar
+4. Förstå vad en funktion är, samt hur den kan se ut och användas
 
 
 ## Resurser
