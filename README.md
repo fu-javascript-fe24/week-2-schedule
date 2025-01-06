@@ -20,6 +20,7 @@
 
 ### Lektionsrepon
 
+* [7 januari](https://github.com/fu-javascript-fe24/week-2-lecture-7-jan)
 
 ### Filmer
 
