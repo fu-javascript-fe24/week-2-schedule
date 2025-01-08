@@ -25,6 +25,7 @@ Under denna inledande vecka kommer vi inleda med att repetera de koncept vi tjuv
 ### Inspelade föreläsningar
 * [Kursintro, 7 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ERQXdVf1g-JEj2gCFRXoYrgBjvSoujJRGXngQQ1hrmaWtQ?e=mimbpj)
 * [Grundläggande JavaScript, 7 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EQxdzaotlbVCsejLJoaTCowBBje3FL4KfvNHMIoYSpC3jA?e=4aaZEu)
+* [Funktioner, 8 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUEHnIZcr1NHgYpDiLPncPkBbP4gl1XjAxQwUIEO56xQxQ?e=mX6igT)
 
 
 ### Lektionsrepon
