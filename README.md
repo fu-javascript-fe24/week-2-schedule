@@ -32,6 +32,8 @@ Under denna inledande vecka kommer vi inleda med att repetera de koncept vi tjuv
 
 * [7 januari](https://github.com/fu-javascript-fe24/week-2-lecture-7-jan)
 * [8 januari](https://github.com/fu-javascript-fe24/week-2-lecture-8-jan)
+* [9 januari, för distans](https://github.com/fu-javascript-fe24/week-2-lecture-9-jan.git)
+* [10 januari, för Karlstad]()
 
 
 ### Filmer
