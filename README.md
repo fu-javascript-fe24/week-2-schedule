@@ -26,6 +26,7 @@ Under denna inledande vecka kommer vi inleda med att repetera de koncept vi tjuv
 * [Kursintro, 7 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ERQXdVf1g-JEj2gCFRXoYrgBjvSoujJRGXngQQ1hrmaWtQ?e=mimbpj)
 * [Grundläggande JavaScript, 7 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EQxdzaotlbVCsejLJoaTCowBBje3FL4KfvNHMIoYSpC3jA?e=4aaZEu)
 * [Funktioner, 8 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUEHnIZcr1NHgYpDiLPncPkBbP4gl1XjAxQwUIEO56xQxQ?e=mX6igT)
+* [Kodstuga distans, 9 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EXYU9jozNSlLrO3Bc1Qzg9kBS-p0end6j6m2F0INmmTKvA?e=uCJAAo)
 
 
 ### Lektionsrepon
@@ -33,7 +34,7 @@ Under denna inledande vecka kommer vi inleda med att repetera de koncept vi tjuv
 * [7 januari](https://github.com/fu-javascript-fe24/week-2-lecture-7-jan)
 * [8 januari](https://github.com/fu-javascript-fe24/week-2-lecture-8-jan)
 * [9 januari, för distans](https://github.com/fu-javascript-fe24/week-2-lecture-9-jan.git)
-* [10 januari, för Karlstad]()
+* [10 januari, för Karlstad](https://github.com/fu-javascript-fe24/week-2-lecture-10-jan)
 
 
 ### Filmer
