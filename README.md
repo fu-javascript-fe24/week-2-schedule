@@ -23,12 +23,21 @@ Under denna inledande vecka kommer vi inleda med att repetera de koncept vi tjuv
 
 
 ### Inspelade föreläsningar
+
+**LIVE**
+
 * [Kursintro, 7 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ERQXdVf1g-JEj2gCFRXoYrgBjvSoujJRGXngQQ1hrmaWtQ?e=mimbpj)
 * [Grundläggande JavaScript, 7 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EQxdzaotlbVCsejLJoaTCowBBje3FL4KfvNHMIoYSpC3jA?e=4aaZEu)
 * [Funktioner, 8 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUEHnIZcr1NHgYpDiLPncPkBbP4gl1XjAxQwUIEO56xQxQ?e=mX6igT)
 * [Kodstuga distans, 9 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EXYU9jozNSlLrO3Bc1Qzg9kBS-p0end6j6m2F0INmmTKvA?e=uCJAAo)
 * [Kodstuga Karlstad, 10 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EX5hvD3WHdZHgEJaxgCXyFABqCWqVzLcrnsjFqkxILK5Qg?e=mXHMle)
 
+**Förinspelat**
+
+* [Variabler och Villkor - koncept](https://vimeo.com/758537502/12ac2e0a3a)
+* [Variabler och Villkor - kodexempel](https://vimeo.com/758537384/31b02c469b)
+* [Funktioner och Scope - koncept](https://vimeo.com/760940439/cc7be42307)
+* [Funktioner och Scope - kodexempel](https://vimeo.com/760940523/69f9bb2a2b)
 
 ### Lektionsrepon
 
